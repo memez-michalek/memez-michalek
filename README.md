@@ -1,5 +1,27 @@
-### Hi there 👋
 
+I am a High School student currently im learning to code on my own. 
+
+I have mostly focused on getting knowledge and experience in:
+
+- Python(Django/Flask/Django REST FRAMEWORK) 
+
+- Golang(GIN) 
+
+I also have some knowledge in:
+
+- React 
+
+I've also gained some expierience in SQL databases such as POSTGRESQL. I'm also familiar with redis. 
+
+
+Back-end > Front-end 
+
+
+📫 How to reach me: (DISCORD) HIGHSCHOOL DXD UWU #6948
+
+BADGES: 
+
+⚡ Fun fact: I'm autistic
 <!--
 **memez-michalek/memez-michalek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
