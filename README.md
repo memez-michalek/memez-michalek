@@ -1,3 +1,6 @@
+### HI EVERYONE
+
+
 
 I am a High School student currently im learning to code on my own. 
 
@@ -19,7 +22,7 @@ Back-end > Front-end
 
 📫 How to reach me: (DISCORD) HIGHSCHOOL DXD UWU #6948
 
-BADGES: 
+
 
 ⚡ Fun fact: I'm autistic
 <!--
