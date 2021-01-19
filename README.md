@@ -20,7 +20,6 @@ I've also gained some expierience in SQL databases such as POSTGRESQL. I'm also 
 Back-end > Front-end 
 
 
-📫 How to reach me: (DISCORD) HIGHSCHOOL DXD UWU #6948
 
 
 
