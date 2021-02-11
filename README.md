@@ -1,7 +1,7 @@
 ### HI EVERYONE
-https://github-readme-stats.vercel.app/api?username=memez-michalek&show_icons=true&theme=dark
 
 
+![memez-michalek's GitHub stats](https://github-readme-stats.vercel.app/api?username=memez-michalek&show_icons=true&theme=dark)
 
 I am a High School student currently im learning to code on my own. 
 
