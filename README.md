@@ -1,4 +1,5 @@
 ### HI EVERYONE
+https://github-readme-stats.vercel.app/api?username=memez-michalek&show_icons=true&theme=dark
 
 
 
