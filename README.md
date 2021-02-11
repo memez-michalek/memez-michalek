@@ -20,6 +20,9 @@ I've also gained some expierience in SQL databases such as POSTGRESQL. I'm also 
 
 Back-end > Front-end 
 
+Languages i mostly use
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=memez-michalek&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
