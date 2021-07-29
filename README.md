@@ -3,26 +3,26 @@
 
 ![memez-michalek's GitHub stats](https://github-readme-stats.vercel.app/api?username=memez-michalek&show_icons=true&theme=dark)
 
-I am a High School student currently im learning to code on my own. 
+I am a High School trying to pursue my career in IT. 
 
 I have mostly focused on getting knowledge and experience in:
 
 - Python(Django/Flask/Django REST FRAMEWORK) 
 
-- Golang(GIN) 
+- Golang(GIN)
 
-I also have some knowledge in:
-
-- React 
-
-I've also gained some expierience in SQL databases such as POSTGRESQL. I'm also familiar with redis. 
+- React (JS)
 
 
-Back-end > Front-end 
+I've also gained some expierience in SQL databases such as POSTGRESQL and non-sql databases such as MongoDb. I'm also familiar with redis. 
+
+- 🔭 I’m currently working on Decentralized market place site
+- 🌱 I’m currently learning: "next-js"
+- 📫 How to reach me: email: michal_lesniowski_praca@protonmail.com
 
 
 
-Languages i mostly use
+Languages that I mostly use
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=memez-michalek&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
