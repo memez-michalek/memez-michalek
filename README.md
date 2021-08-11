@@ -30,7 +30,7 @@ Languages that I mostly use
 
 
 
-⚡ Fun fact: I'm autistic
+
 <!--
 **memez-michalek/memez-michalek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
