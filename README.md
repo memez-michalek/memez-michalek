@@ -17,7 +17,7 @@ I have mostly focused on getting knowledge and experience in:
 I've also gained some expierience in SQL databases such as POSTGRESQL and non-sql databases such as MongoDb. I'm also familiar with redis. 
 
 - 🔭 I’m currently working on Decentralized market place site
-- 🌱 I’m currently learning: "next-js"
+- 🌱 I’m currently learning: "design patterns"
 - 📫 How to reach me: email: michal_lesniowski_praca@protonmail.com
 
 
