@@ -1,24 +1,21 @@
-### HI EVERYONE
+### HI EVERYONE, I'm  Michal
 
+Number of visitors
 
-![memez-michalek's GitHub stats](https://github-readme-stats.vercel.app/api?username=memez-michalek&show_icons=true&theme=dark)
+![](https://profile-counter.glitch.me/memez-michalek/count.svg)
 
 I am a High School trying to pursue my career in IT. 
 
-I have mostly focused on getting knowledge and experience in:
-
-- Python(Django/Flask/Django REST FRAMEWORK) 
-
-- Golang(GIN)
-
-- React (JS)
+Technologies i use
 
 
-I've also gained some expierience in SQL databases such as POSTGRESQL and non-sql databases such as MongoDb. I'm also familiar with redis. 
+
 
 - 🔭 I’m currently working on Decentralized market place site
 - 🌱 I’m currently learning: "design patterns"
-- 📫 How to reach me: email: michal_lesniowski_praca@protonmail.com
+
+
+How to reach me
 
 
 
@@ -26,8 +23,14 @@ Languages that I mostly use
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=memez-michalek&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+Github stats
 
+![memez-michalek's GitHub stats](https://github-readme-stats.vercel.app/api?username=memez-michalek&show_icons=true&theme=dark)
 
+⚡ Fun fact: 
+ - 🏎️ Car enthusiast
+ - ✈️ Love travelling
+ - 🎧 Big fan of rap music
 
 
 
