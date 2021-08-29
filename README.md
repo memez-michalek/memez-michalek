@@ -12,6 +12,11 @@ I am a High School trying to pursue my career in IT.
 
 # How to reach me
 
+[![Linked In](https://user-images.githubusercontent.com/70857312/131254258-d80dc5c7-2a8f-4f82-9625-78b5641a644b.png)
+](https://www.linkedin.com/in/michal-lesniowski-562740219/)
+[![email](https://user-images.githubusercontent.com/70857312/131254396-dec088ca-4a5c-4016-ba40-fccf53f36a25.png)
+](michal_lesniowski_praca@protonmail.com)
+
 # Misc information
 
 - 🔭 I’m currently working on Decentralized market place site
@@ -33,6 +38,8 @@ I am a High School trying to pursue my career in IT.
  - ✈️ Love travelling
  - 🎧 Big fan of rap music
 
+
+<div>Icons made by <a href="https://www.freepik.com" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
 
 
 <!--
