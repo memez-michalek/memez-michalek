@@ -9,10 +9,28 @@ I am a High School trying to pursue my career in IT.
 
 # Technologies I use
 
-[![Django](https://user-images.githubusercontent.com/70857312/131255254-7e6ce5a9-bcff-476f-b193-07c36c32c620.png)
-](https://www.djangoproject.com/)
 [![Python](https://user-images.githubusercontent.com/70857312/131255308-8b77dc91-9b15-4aec-8150-fa140dadef5c.png)
 ](https://www.python.org/)
+[![Django](https://user-images.githubusercontent.com/70857312/131255382-79535300-2993-4043-9c9e-1a7e7bc5a859.png)
+](https://www.djangoproject.com/)
+[![FastApi](https://user-images.githubusercontent.com/70857312/131255502-18ce3588-5ae4-48db-8ca1-de0af74be971.png)
+](https://fastapi.tiangolo.com/)
+[![Javascript](https://user-images.githubusercontent.com/70857312/131255537-60d0dba6-038a-4e47-ad8c-056b7f2e2355.png)
+](https://www.javascript.com/)
+[![Typescript](https://user-images.githubusercontent.com/70857312/131255594-028e5093-b412-4924-a4cd-922e6af7e35c.png)
+](https://www.typescriptlang.org/)
+[![React](https://user-images.githubusercontent.com/70857312/131255639-a86cebe5-9c54-4f0f-857e-06ad4058701f.png)
+](https://reactjs.org/)
+[![Material UI](https://user-images.githubusercontent.com/70857312/131255681-c6491e58-7dd7-4848-b1e1-1215837fd8e9.png)
+](https://material-ui.com/)
+[![Bootstrap](https://user-images.githubusercontent.com/70857312/131255721-cc864a2d-9e21-4e59-bf29-a2ee0106bc8f.png)
+](https://getbootstrap.com/)
+[![Docker](https://user-images.githubusercontent.com/70857312/131255745-01aa2e29-3877-433b-a02b-4236ea62c2d3.png)
+](https://www.docker.com/)
+[![Linux](https://user-images.githubusercontent.com/70857312/131255780-c0abb862-08d7-44d3-bb91-cb76f60c141a.png)
+](https://www.linux.org/)
+[![Go](https://user-images.githubusercontent.com/70857312/131255797-71d13cdc-7080-4b71-80fd-5ff2bbdaf7bc.png)
+](https://golang.org/)
 
 
 
