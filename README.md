@@ -31,10 +31,8 @@ I am a High School trying to pursue my career in IT.
 ](https://www.linux.org/)
 [![Go](https://user-images.githubusercontent.com/70857312/131255797-71d13cdc-7080-4b71-80fd-5ff2bbdaf7bc.png)
 ](https://golang.org/)
-
-
-
-
+[![Postgres](https://user-images.githubusercontent.com/70857312/131255922-982735fa-2b1b-4c18-855f-3494072ed91b.png)
+]()
 
 
 
