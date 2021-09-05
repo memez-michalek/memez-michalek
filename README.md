@@ -42,6 +42,9 @@ I am a High School trying to pursue my career in IT.
 ](https://www.linkedin.com/in/michal-lesniowski-562740219/)
 [![email](https://user-images.githubusercontent.com/70857312/131254396-dec088ca-4a5c-4016-ba40-fccf53f36a25.png)
 ](mailto:michal_lesniowski_praca@protonmail.com)
+[![website](https://user-images.githubusercontent.com/70857312/132137458-1ba40a7b-510b-4e6c-9459-763dedbf4b0c.png)
+](https://michal-lesniowski.herokuapp.com)
+
 
 # Misc information
 
