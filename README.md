@@ -47,8 +47,8 @@ I am a High School trying to pursue my career in IT.
 
 # Misc information
 
-- 🔭 I’m currently working on Music community website
-- 🌱 I’m currently learning: "leetcode algorithms 101 course"
+[comment]: <> (- 🔭 I’m currently working on)
+- 🌱 I’m currently learning: "kubernetes with springboot and graphql"
 
 
 
